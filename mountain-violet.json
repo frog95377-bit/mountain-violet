@@ -1,0 +1,45 @@
+{
+  "name": "Mountain Violet",
+  "description": "Фіолетові гори: фон без блюру, читабельний текст у чаті.",
+  "authors": [{ "name": "YOUR_NAME", "id": "YOUR_DISCORD_ID" }],
+  "semanticColors": {
+    "TEXT_NORMAL": ["#F4F1FF", "#F4F1FF"],
+    "TEXT_MUTED": ["#B9AEE8", "#B9AEE8"],
+    "TEXT_LINK": ["#8FB4FF", "#8FB4FF"],
+    "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+    "HEADER_SECONDARY": ["#CFC6F5", "#CFC6F5"],
+    "INTERACTIVE_NORMAL": ["#CFC6F5", "#CFC6F5"],
+    "INTERACTIVE_HOVER": ["#FFFFFF", "#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_PRIMARY": ["#0B0720CC", "#0B0720CC"],
+    "BACKGROUND_SECONDARY": ["#120B30D9", "#120B30D9"],
+    "BACKGROUND_SECONDARY_ALT": ["#0F0928D9", "#0F0928D9"],
+    "BACKGROUND_TERTIARY": ["#070418E6", "#070418E6"],
+    "BACKGROUND_FLOATING": ["#150D38F2", "#150D38F2"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0B072099", "#0B072099"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#120B30B3", "#120B30B3"],
+    "BACKGROUND_MODIFIER_HOVER": ["#7C5CFF26", "#7C5CFF26"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#7C5CFF40", "#7C5CFF40"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#7C5CFF4D", "#7C5CFF4D"],
+    "CHAT_BACKGROUND": ["#0B072080", "#0B072080"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#1A1145E6", "#1A1145E6"],
+    "CHANNELS_DEFAULT": ["#B9AEE8", "#B9AEE8"],
+    "BRAND_500": ["#7C5CFF", "#7C5CFF"],
+    "BUTTON_FILLED_BRAND_BACKGROUND": ["#7C5CFF", "#7C5CFF"],
+    "STATUS_POSITIVE_BACKGROUND": ["#4FD1C5", "#4FD1C5"],
+    "MENTION_FOREGROUND": ["#FFFFFF", "#FFFFFF"],
+    "MENTION_BACKGROUND": ["#7C5CFF59", "#7C5CFF59"]
+  },
+  "rawColors": {
+    "BRAND_500": "#7C5CFF",
+    "BRAND_560": "#6A4BE8",
+    "PRIMARY_660": "#120B30",
+    "PRIMARY_700": "#0F0928",
+    "PRIMARY_800": "#0B0720"
+  },
+  "background": {
+    "url": "https://i.supaimg.com/e5a5eeaa-1ba1-4d42-9d6f-572c16526eab/99e0a404-f852-420a-a12d-056cd2b9643f.jpg",
+    "blur": 0,
+    "alpha": 0.9
+  }
+}
